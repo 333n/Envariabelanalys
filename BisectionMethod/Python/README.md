@@ -1,0 +1,1 @@
+"pip install tqdm" eller "python -m pip install tqdm"
