@@ -4,7 +4,7 @@
 x_gues = 2;
 
 % Kör 10 itersoner med x_gues som start värde
-for n = 1:1000
+for n = 1:10
     x_gues = FixedPointIteration(x_gues);
 end
 
