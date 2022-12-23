@@ -53,7 +53,7 @@ def main():
     )
 
     
-    elapsed = time.perf_counter()
+    elapsed = time.perf_counter() - now
     print("Time elapsed: ", elapsed, " seconds")
 
 
